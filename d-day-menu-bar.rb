@@ -1,4 +1,4 @@
-cask "d-day-menu-bar" do
+cask "Ticky" do
     # 1. GitHub 릴리즈 버전과 똑같이 적어주세요.
     version "1.0.0"
   
@@ -9,8 +9,8 @@ cask "d-day-menu-bar" do
     #    '사용자이름'과 '저장소이름'을 본인 것으로 수정하세요.
     url "https://github.com/oyeong011/D-Day-MenuBar-macOS/download/v#{version}/Ticky%20v1.0.0.zip"
 
-    name "D-Day Menu Bar"
-    desc "D-Day counter for your menu bar"
+    name "Ticky"
+    desc "Ticky for your menu bar"
     homepage "https://github.com/사용자이름/D-Day-MenuBar-macOS"
   
     app "Ticky.app"
