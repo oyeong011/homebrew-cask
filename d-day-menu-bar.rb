@@ -7,11 +7,11 @@ cask "d-day-menu-bar" do
   
     # 3. GitHub 릴리즈에 올린 zip 파일의 다운로드 링크입니다.
     #    '사용자이름'과 '저장소이름'을 본인 것으로 수정하세요.
-    url "https://github.com/사용자이름/D-Day-MenuBar-macOS/releases/download/v#{version}/YearProgress.app.zip"
-  
+    url "https://github.com/oyeong011/D-Day-MenuBar-macOS/download/v#{version}/Ticky%20v1.0.0.zip"
+
     name "D-Day Menu Bar"
     desc "D-Day counter for your menu bar"
     homepage "https://github.com/사용자이름/D-Day-MenuBar-macOS"
   
-    app "YearProgress.app"
+    app "Ticky.app"
   end
