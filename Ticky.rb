@@ -1,4 +1,4 @@
-cask "Ticky" do
+cask "ticky" do
     version "1.0.0"
   
     sha256 "46979eb79138df173a593599ee4b93a3de03a06c26bf4bf078db0f6923627c37"
