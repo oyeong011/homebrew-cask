@@ -9,6 +9,5 @@ cask "ticky" do
   desc "D-Day counter for your menu bar"
   homepage "https://github.com/oyeong011/Ticky"
 
-  # ⚠️ 중요: 압축 파일 안의 실제 앱 이름으로 수정했습니다.
   app "Ticky.app"
 end
