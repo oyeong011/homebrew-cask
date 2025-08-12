@@ -7,7 +7,7 @@ cask "ticky" do
 
     name "Ticky"
     desc "Ticky for your menu bar"
-    homepage "https://github.com/사용자이름/D-Day-MenuBar-macOS"
+    homepage "https://github.com/oyeong011/D-Day-MenuBar-macOS"
   
     app "Ticky.app"
   end
