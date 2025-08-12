@@ -1,7 +1,7 @@
 cask "ticky" do
   version "1.0.1"
 
-  sha256 "3aa70cd50a2cf019bd9a67cd6c03bec7a77b622ae0a1d5e7efe749bf1c66f626"
+  sha256 "884cd822dd9bac369defc38bed75b0b6b5428cdd8478fe3639e3146b6d2a2a23"
 
   url "https://github.com/oyeong011/Ticky/releases/download/v1.0.1/Ticky.v1.0.1.zip"
 
